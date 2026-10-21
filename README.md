@@ -1,2 +1,18 @@
 # MSBackupExplorer
 MSBackupExplorer lets you explore SQL Server backups, inspect data and recover the information you need—without installing or running SQL Server.
+
+Save time by opening a backup directly instead of restoring an entire database just to find a record, inspect a table or recover selected data.
+Key features:
+• Browse tables, records, views, stored procedures and other supported SQL objects.
+• Work with supported compressed, encrypted and striped SQL Server backups.
+• Support for database row, page and column compression.
+• Export a single table to a supported database platform or CSV.
+• Export to SQL Server, MySQL, PostgreSQL, MariaDB, SQLite and Oracle.
+• Export supported SQL Server objects, including procedures, functions, views, triggers and synonyms.
+• Analyse damaged backups and attempt to recover readable data. Where the database catalogue is corrupted, a compatible working backup can be used as a reference.
+Cross-database exports support tables, data, primary keys and foreign keys. Other SQL objects are supported when exporting to SQL Server.
+Free and Pro editions
+The free edition lets you explore supported backups and preview up to 100 rows per table. Export and recovery output features require a paid Pro licence, purchased separately through our website.
+A Pro licence provides perpetual use of the purchased major version on up to two computers. Internet access is required for activation. After activation, the app can work offline. When connected, the app checks licence status at startup.
+Backup contents are processed locally. Encrypted backups require the appropriate passwords, certificates or keys. Supported features depend on the backup format and contents; recovery of damaged backups cannot be guaranteed.
+Requires a 64-bit Intel or AMD system running Windows 10 version 1809 or later, Windows 11, or Windows Server 2019 or later with Desktop Experience.
