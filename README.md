@@ -4,6 +4,8 @@ MSBackupExplorer lets you explore SQL Server backups, inspect data and recover t
 Save time by opening a backup directly instead of restoring an entire database just to find a record, inspect a table or recover selected data.
 ## Download
 
+[Download from GitHub](https://github.com/YOUR-USERNAME/MSBackupExplorer/releases/latest)
+
 [Get it from Microsoft Store](https://apps.microsoft.com/detail/9NLNM26LVD33)
 
 [Download from our website](https://www.msbackupexplorer.com/download)
