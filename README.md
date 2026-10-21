@@ -40,12 +40,12 @@ Requires a 64-bit Intel or AMD system running Windows 10 version 1809 or later, 
 
 ### Explore a backup
 
-![Tables and SQL objects in MSBackupExplorer](images/screenshot1.png)
+![Tables and SQL objects in MSBackupExplorer](images/ScreenShot1.png)
 
 ### Browse table data
 
-![Preview records from a SQL Server backup](images/screenshot2.png)
+![Preview records from a SQL Server backup](images/ScreenShot2.png)
 
 ### Export selected data
 
-![Database and CSV export options](images/screenshot3.png)
+![Database and CSV export options](images/ScreenShot3.png)
