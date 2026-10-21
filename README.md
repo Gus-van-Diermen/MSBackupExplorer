@@ -35,3 +35,17 @@ Encrypted backups require the appropriate passwords, certificates or keys.
 Supported features depend on the backup format and contents; recovery of damaged backups cannot be guaranteed.
 
 Requires a 64-bit Intel or AMD system running Windows 10 version 1809 or later, Windows 11, or Windows Server 2019 or later with Desktop Experience.
+
+## Screenshots
+
+### Explore a backup
+
+![Tables and SQL objects in MSBackupExplorer](images/screenshot1.png)
+
+### Browse table data
+
+![Preview records from a SQL Server backup](images/screenshot2.png)
+
+### Export selected data
+
+![Database and CSV export options](images/screenshot3.png)
