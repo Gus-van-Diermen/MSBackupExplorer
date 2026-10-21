@@ -42,10 +42,19 @@ Requires a 64-bit Intel or AMD system running Windows 10 version 1809 or later, 
 
 ![Tables and SQL objects in MSBackupExplorer](images/ScreenShot1.png)
 
-### Browse table data
+### Export selected data
 
 ![Preview records from a SQL Server backup](images/ScreenShot2.png)
 
-### Export selected data
+### Browse Backup MetaData
 
 ![Database and CSV export options](images/ScreenShot3.png)
+
+### View and Export Table Definitons
+
+![Database and CSV export options](images/ScreenShot4.png)
+
+
+### View and Export Stored Procedure definitions and any other type of SQL Server Object
+
+![Database and CSV export options](images/ScreenShot51.png)
