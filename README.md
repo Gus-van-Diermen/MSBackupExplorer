@@ -13,6 +13,7 @@ Save time by opening a backup directly instead of restoring an entire database j
 - Export supported SQL Server objects, including procedures, functions, views, triggers and synonyms.
 - Analyse damaged backups and attempt to recover readable data. Where the database catalogue is corrupted, a compatible working backup can be used as a reference.
  - Cross-database exports support tables, data, primary keys and foreign keys. Other SQL objects are supported when exporting to SQL Server.
+ - Filter, Sort, select Columns and Export your data
 
 ## Download
 
