@@ -17,8 +17,6 @@ Save time by opening a backup directly instead of restoring an entire database j
 
 ## Download
 
-[Download from GitHub](https://github.com/Gus-van-Diermen/MSBackupExplorer/releases/latest)
-
 [Get it from Microsoft Store](https://apps.microsoft.com/detail/9NLNM26LVD33)
 
 [Download from our website](https://www.msbackupexplorer.com/download)
