@@ -42,7 +42,7 @@ Requires a 64-bit Intel or AMD system running Windows 10 version 1809 or later, 
 
 ### Explore a backup
 
-![Tables and SQL objects in MSBackupExplorer](images/ScreenShot6.png)
+![Tables and SQL objects in MSBackupExplorer](images/ScreenShot10.png)
 
 ### Export selected data
 
