@@ -1,11 +1,13 @@
 # MSBackupExplorer
-MSBackupExplorer lets you explore SQL Server backups, inspect data and recover the information you need—without installing or running SQL Server.
+MSBackupExplorer lets you explore SQL Server backups  and add its matching differential, inspect data and recover the information you need—without installing or running SQL Server.Use the toggle With Recovery to show transactionally consistent data.
 
 Save time by opening a backup directly instead of restoring an entire database just to find a record, inspect a table or recover selected data.
 
 ## Key features
 
 -  Browse tables, records, views, stored procedures and other supported SQL objects.
+-  add differential backups
+-  Use the toggle With Recovery to show transactionally consistent data.
 - Work with supported compressed, encrypted and striped SQL Server backups.
 - Support for database row, page and column compression.
 - Export a single table to a supported database platform or CSV.
