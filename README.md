@@ -50,11 +50,11 @@ Requires a 64-bit Intel or AMD system running Windows 10 version 1809 or later, 
 
 ### Browse Backup MetaData
 
-![Database and CSV export options](images/ScreenShot3.png)
+![Database and CSV export options](images/backup-properties.png)
 
 ### View and Export Table Definitons
 
-![Database and CSV export options](images/ScreenShot4.png)
+![Database and CSV export options](images/object-details.png)
 
 
 ### View and Export Stored Procedure definitions and any other type of SQL Server Object
