@@ -46,7 +46,7 @@ Requires a 64-bit Intel or AMD system running Windows 10 version 1809 or later, 
 
 ### Export selected data
 
-![Preview records from a SQL Server backup](images/ScreenShot2.png)
+![Preview records from a SQL Server backup](images/ScreenShot11.png)
 
 ### Browse Backup MetaData
 
