@@ -59,4 +59,4 @@ Requires a 64-bit Intel or AMD system running Windows 10 version 1809 or later, 
 
 ### View and Export Stored Procedure definitions and any other type of SQL Server Object
 
-![Database and CSV export options](images/ScreenShot51.png)
+![Database and CSV export options](images/ScreenShot9.png)
